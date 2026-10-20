@@ -1,0 +1,139 @@
+{
+  "success": true,
+  "data": {
+    "country": "sa",
+    "vertical_count": 4,
+    "store_ids": {
+      "RETAIL": "5",
+      "BEAUTY": "203388",
+      "PHARMACY": "203689"
+    },
+    "verticals": [
+      {
+        "vertical": "RETAIL",
+        "status": "ENABLED",
+        "is_default": true,
+        "store_id": "5",
+        "store": {
+          "id": "5",
+          "code": "RUH-WAR001",
+          "status": "READY",
+          "country": "sa",
+          "estimated_delivery_minutes": 15,
+          "delayed_delivery": false,
+          "delayed_delivery_notice": {
+            "title": "Heavy traffic notice",
+            "description": "You can place your order now, but it might take a bit longer than usual due to high demand. Rest assured, we're working tirelessly and are excited to get your order to you as soon as possible.\nThank you for your understanding and trust in us!",
+            "icon": "https://img.ananinja.com/media/bra-public-files/services-admin/files/16a61f6e-a18d-4966-b42f-c2d64269a3d9"
+          },
+          "closing_notice": null,
+          "working_hours": [
+            {
+              "weekday": 0,
+              "start_minutes": 0,
+              "end_minutes": 1440,
+              "start_time": "00:00",
+              "end_time": "24:00",
+              "open_24h": true
+            }
+          ]
+        },
+        "cluster_store_ids": [
+          "203388",
+          "203388",
+          "203388"
+        ],
+        "on_demand_delivery": true,
+        "scheduled_delivery": false,
+        "image": "https://img.ananinja.com/media/bra-public-files/cms/Verticals/47914f83-edef-4ffd-8e60-0240de578012",
+        "deeplink": "ananinja://grocery",
+        "feature_id": "70"
+      },
+      {
+        "vertical": "RESTAURANT",
+        "status": "ENABLED",
+        "is_default": false,
+        "store_id": null,
+        "store": null,
+        "cluster_store_ids": [],
+        "on_demand_delivery": true,
+        "scheduled_delivery": false,
+        "image": "https://img.ananinja.com/media/bra-public-files/cms/Verticals/3140f424-8aff-42c3-bff4-8e9bd343bcea",
+        "deeplink": "ananinja://restaurants",
+        "feature_id": "439713"
+      },
+      {
+        "vertical": "BEAUTY",
+        "status": "ENABLED",
+        "is_default": false,
+        "store_id": "203388",
+        "store": {
+          "id": "203388",
+          "code": "RUH-AHM001",
+          "status": "READY",
+          "country": "sa",
+          "estimated_delivery_minutes": null,
+          "delayed_delivery": false,
+          "delayed_delivery_notice": {
+            "title": "Heavy traffic notice",
+            "description": "You can place your order now, but it might take a bit longer than usual due to high demand. Rest assured, we're working tirelessly and are excited to get your order to you as soon as possible.\nThank you for your understanding and trust in us!",
+            "icon": "https://img.ananinja.com/media/bra-public-files/services-admin/files/16a61f6e-a18d-4966-b42f-c2d64269a3d9"
+          },
+          "closing_notice": null,
+          "working_hours": [
+            {
+              "weekday": 0,
+              "start_minutes": 0,
+              "end_minutes": 1440,
+              "start_time": "00:00",
+              "end_time": "24:00",
+              "open_24h": true
+            }
+          ]
+        },
+        "cluster_store_ids": [],
+        "on_demand_delivery": true,
+        "scheduled_delivery": false,
+        "image": "https://img.ananinja.com/media/bra-public-files/cms/Verticals/19e960d8-fea8-4b17-b4d5-acdcc517af06",
+        "deeplink": "ananinja://screen=beauty",
+        "feature_id": "4747585"
+      },
+      {
+        "vertical": "PHARMACY",
+        "status": "ENABLED",
+        "is_default": false,
+        "store_id": "203689",
+        "store": {
+          "id": "203689",
+          "code": "SIH-RUH-AHM001",
+          "status": "READY",
+          "country": "sa",
+          "estimated_delivery_minutes": null,
+          "delayed_delivery": false,
+          "delayed_delivery_notice": {
+            "title": "Heavy traffic notice",
+            "description": "You can place your order now, but it might take a bit longer than usual due to high demand. Rest assured, we're working tirelessly and are excited to get your order to you as soon as possible.\nThank you for your understanding and trust in us!",
+            "icon": "https://img.ananinja.com/media/bra-public-files/services-admin/files/16a61f6e-a18d-4966-b42f-c2d64269a3d9"
+          },
+          "closing_notice": null,
+          "working_hours": [
+            {
+              "weekday": 0,
+              "start_minutes": 0,
+              "end_minutes": 1440,
+              "start_time": "00:00",
+              "end_time": "24:00",
+              "open_24h": true
+            }
+          ]
+        },
+        "cluster_store_ids": [],
+        "on_demand_delivery": true,
+        "scheduled_delivery": false,
+        "image": "https://img.ananinja.com/media/bra-public-files/cms/Verticals/4b2da166-201b-4e2b-b704-d5c5ae3ed2ae",
+        "deeplink": "ananinja://pharmacy",
+        "feature_id": "439962"
+      }
+    ]
+  }
+}

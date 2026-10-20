@@ -1,0 +1,157 @@
+{
+  "success": true,
+  "data": {
+    "menu_id": "32982",
+    "name": "Future Burger Menu",
+    "status": "active",
+    "special_category_name": "Top Discounts",
+    "opening_time_minutes": 0,
+    "closing_time_minutes": 1440,
+    "section_count": 6,
+    "item_count": 17,
+    "sections": [
+      {
+        "id": "402069",
+        "name": "Beef Section",
+        "description": "Beef Section",
+        "popular": false,
+        "item_count": 3,
+        "items": [
+          {
+            "id": "2095329",
+            "name": "Smoky Beef Burger",
+            "description": "2 Black Angus steaks with fresh bread, sauce, cheese and lettuce",
+            "available": true,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/izi8lxr7rjn6fy56m5nscyjplchm/1.jpg"
+            ],
+            "from_price_cents": 1820,
+            "from_price": 18.2,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "2391485",
+                "name": "Smoky Beef Burger",
+                "price_cents": 1820,
+                "price": 18.2,
+                "original_price_cents": 2600,
+                "original_price": 26,
+                "is_discounted": true,
+                "discount_id": "72078",
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "calories": 1,
+                "allergens": [],
+                "topping_ids": [],
+                "toppings": []
+              }
+            ]
+          },
+          {
+            "id": "2721570",
+            "name": "Future Burger Double Meat",
+            "description": "Two Black Angus beef patties topped with melted cheese, sauce, fresh bread, lettuce, and mozzarella.",
+            "available": true,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/hlvy272faux4gquxezve8jz1lu7o/27.jpg"
+            ],
+            "from_price_cents": 2700,
+            "from_price": 27,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "3118541",
+                "name": "Future Burger Double Meat",
+                "price_cents": 2700,
+                "price": 27,
+                "original_price_cents": 2700,
+                "original_price": 27,
+                "is_discounted": false,
+                "discount_id": null,
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "calories": 1,
+                "allergens": [],
+                "topping_ids": [],
+                "toppings": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "558252",
+        "name": "Chicken Section",
+        "description": "Chicken Section",
+        "popular": false,
+        "item_count": 2,
+        "items": [
+          {
+            "id": "2095332",
+            "name": "Dynamite Chicken Fries",
+            "description": "Crispy potato wedges with special sauce, cheese sauce, chicken pieces, and jalapeños",
+            "available": true,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/k54e8j979iwaj9es7ibztagm8fwa/4.jpg"
+            ],
+            "from_price_cents": 1890,
+            "from_price": 18.9,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "2391488",
+                "name": "Dynamite Chicken Fries",
+                "price_cents": 1890,
+                "price": 18.9,
+                "original_price_cents": 2100,
+                "original_price": 21,
+                "is_discounted": true,
+                "discount_id": "72079",
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "calories": 1,
+                "allergens": [],
+                "topping_ids": [],
+                "toppings": []
+              }
+            ]
+          },
+          {
+            "id": "2095331",
+            "name": "Classic Chicken Burger",
+            "description": "A slice of crispy chicken topped with cheese and smoked sauce, served with lettuce and fresh pretzel bread",
+            "available": true,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/m750ze712q1bhq33eegip44osp02/5.jpg"
+            ],
+            "from_price_cents": 2200,
+            "from_price": 22,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "2391487",
+                "name": "Classic Chicken Burger",
+                "price_cents": 2200,
+                "price": 22,
+                "original_price_cents": 2200,
+                "original_price": 22,
+                "is_discounted": false,
+                "discount_id": null,
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "calories": 1,
+                "allergens": [],
+                "topping_ids": [],
+                "toppings": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

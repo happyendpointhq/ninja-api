@@ -1,0 +1,264 @@
+{
+  "success": true,
+  "data": {
+    "page": 1,
+    "per_page": 20,
+    "count": 20,
+    "paginated": true,
+    "render_type": "list",
+    "branches": [
+      {
+        "branch_id": "56969",
+        "branch_name": "Future Burger - Riyadh - Dhahrat Laban",
+        "status": "available",
+        "is_open": true,
+        "closing_soon_at": null,
+        "currency": "SAR",
+        "restaurant": {
+          "id": "22379",
+          "name": "Future Burger ",
+          "slug": "future-burger",
+          "logo": "https://img.ananinja.com/media/ninja-catalog-42/restaurants/3dj350zddu4rrkz9ll76vnko5gmu/5e1e01f2-dc43-4ab5-8163-2e5ab1577eb5-1-.png",
+          "banner": "https://img.ananinja.com/media/ninja-catalog-42/restaurants/pd48pobie6ysyf95373n5pfs9uch/banner-472-.png",
+          "popular": false,
+          "cuisines": [
+            {
+              "id": "12",
+              "name": "Burger"
+            },
+            {
+              "id": "6",
+              "name": "Fast Food"
+            }
+          ]
+        },
+        "rating": {
+          "score": 4.5,
+          "vote_count": 48,
+          "vote_count_label": "40+"
+        },
+        "delivery": {
+          "distance_km": 14.6,
+          "duration_minutes_label": "69",
+          "fee": {
+            "fee_cents": 500,
+            "fee": 5,
+            "original_fee_cents": 1800,
+            "original_fee": 18,
+            "is_free": false,
+            "is_discounted": true,
+            "currency": "SAR",
+            "promoted": false,
+            "label": "**Free Delivery**"
+          }
+        },
+        "discounts": [
+          {
+            "id": "73598",
+            "title": "Regular Fries for 1 SAR",
+            "short_title": "1 SAR",
+            "icon": "https://img.ananinja.com/media/bra-public-files/services-admin/files/13db7647-8fd9-4def-be3c-47be82b44011"
+          },
+          {
+            "id": "72079",
+            "title": "10% Off Discount on selected items",
+            "short_title": "10% Off",
+            "icon": "https://img.ananinja.com/media/bra-public-files/services-admin/files/13db7647-8fd9-4def-be3c-47be82b44011"
+          }
+        ],
+        "badges": [],
+        "matched_item_count": 3,
+        "matched_items": [
+          {
+            "id": "2095329",
+            "name": "Smoky Beef Burger",
+            "description": "2 Black Angus steaks with fresh bread, sauce, cheese and lettuce",
+            "available": true,
+            "out_of_stock": false,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/izi8lxr7rjn6fy56m5nscyjplchm/1.jpg"
+            ],
+            "from_price_cents": 1820,
+            "from_price": 18.2,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "2391485",
+                "name": "Smoky Beef Burger",
+                "price_cents": 1820,
+                "price": 18.2,
+                "original_price_cents": 2600,
+                "original_price": 26,
+                "is_discounted": true,
+                "discount_id": "72078",
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": "2095330",
+            "name": "future Beef Burger",
+            "description": "A slice of hashi meat topped with melted cheese, served with sauce, fresh bread, and lettuce.",
+            "available": true,
+            "out_of_stock": false,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/rcmdnq6d2blcg05yb18toz14h86a/2.jpg"
+            ],
+            "from_price_cents": 1890,
+            "from_price": 18.9,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "2391486",
+                "name": "future Beef Burger",
+                "price_cents": 1890,
+                "price": 18.9,
+                "original_price_cents": 2100,
+                "original_price": 21,
+                "is_discounted": true,
+                "discount_id": "72079",
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "topping_ids": []
+              }
+            ]
+          }
+        ],
+        "url": "https://ananinja.com/sa/en/restaurants/future-burger-56969"
+      },
+      {
+        "branch_id": "40417",
+        "branch_name": "Days - Riyadh - Al-Maghrizat",
+        "status": "available",
+        "is_open": true,
+        "closing_soon_at": null,
+        "currency": "SAR",
+        "restaurant": {
+          "id": "15063",
+          "name": "Days Burger ",
+          "slug": "days",
+          "logo": "https://img.ananinja.com/media/ninja-catalog-42/restaurants/dsr4p28xkbdz1no1necq7o7ccn5r/company-cr1131169150-restaurant-days-logo",
+          "banner": "https://img.ananinja.com/media/ninja-catalog-42/restaurants/58u5jqobh4ojt7ek1a0jew9om2v8/company-cr1131169150-restaurant-days-banner-image",
+          "popular": false,
+          "cuisines": [
+            {
+              "id": "12",
+              "name": "Burger"
+            },
+            {
+              "id": "6",
+              "name": "Fast Food"
+            }
+          ]
+        },
+        "rating": {
+          "score": 4.5,
+          "vote_count": 964,
+          "vote_count_label": "900+"
+        },
+        "delivery": {
+          "distance_km": 7.3,
+          "duration_minutes_label": "37-47",
+          "fee": {
+            "fee_cents": 0,
+            "fee": 0,
+            "original_fee_cents": 1800,
+            "original_fee": 18,
+            "is_free": true,
+            "is_discounted": true,
+            "currency": "SAR",
+            "promoted": false,
+            "label": "**Free Delivery**"
+          }
+        },
+        "discounts": [
+          {
+            "id": "62235",
+            "title": "1 SAR Exclusive Offer",
+            "short_title": "1 SAR",
+            "icon": "https://img.ananinja.com/media/bra-public-files/services-admin/files/13db7647-8fd9-4def-be3c-47be82b44011"
+          },
+          {
+            "id": "46768",
+            "title": "30% Discount on selected items",
+            "short_title": "30% Off",
+            "icon": "https://img.ananinja.com/media/bra-public-files/services-admin/files/13db7647-8fd9-4def-be3c-47be82b44011"
+          }
+        ],
+        "badges": [],
+        "matched_item_count": 3,
+        "matched_items": [
+          {
+            "id": "1438176",
+            "name": "maqlopa burger",
+            "description": "Toasted brioche bread with two slices of meat and special sauce",
+            "available": true,
+            "out_of_stock": false,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/ep1485ctd8wqsjzi0uqiqelw11q9/sk-0355.jpg"
+            ],
+            "from_price_cents": 3400,
+            "from_price": 34,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "1618704",
+                "name": "maqlopa burger",
+                "price_cents": 3400,
+                "price": 34,
+                "original_price_cents": 3400,
+                "original_price": 34,
+                "is_discounted": false,
+                "discount_id": null,
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "topping_ids": [
+                  "330034",
+                  "330035"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1438173",
+            "name": "Burger kids meal",
+            "description": "Burger, fries, juice and a toy",
+            "available": true,
+            "out_of_stock": false,
+            "images": [
+              "https://img.ananinja.com/media/ninja-catalog-42/restaurants/6jsvan6grha3tubk6xszi9pfclwx/27.jpg"
+            ],
+            "from_price_cents": 1900,
+            "from_price": 19,
+            "variant_count": 1,
+            "variants": [
+              {
+                "id": "1618701",
+                "name": "Burger kids meal",
+                "price_cents": 1900,
+                "price": 19,
+                "original_price_cents": 1900,
+                "original_price": 19,
+                "is_discounted": false,
+                "discount_id": null,
+                "platform_discount": 0,
+                "restaurant_discount": 0,
+                "container_price_cents": 0,
+                "topping_ids": [
+                  "330025",
+                  "330026"
+                ]
+              }
+            ]
+          }
+        ],
+        "url": "https://ananinja.com/sa/en/restaurants/days-40417"
+      }
+    ]
+  }
+}

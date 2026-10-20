@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "band_count": 2,
+    "free_delivery_threshold_cents": 3500,
+    "free_delivery_threshold": 35,
+    "bands": [
+      {
+        "title": "**SAR 18** Delivery Fee",
+        "description": "Orders below **SAR 35**, delivery fee is **SAR 18**.",
+        "dynamic_description": null,
+        "min_order_cents": 0,
+        "min_order": 0,
+        "max_order_cents": 3500,
+        "max_order": 35,
+        "delivery_fee_cents": 1800,
+        "delivery_fee": 18,
+        "is_free": false,
+        "currency": "SAR"
+      },
+      {
+        "title": "**Free Delivery**",
+        "description": "Order for **SAR 35** to get a **Free Delivery**",
+        "dynamic_description": "Add **${x} SAR** to enjoy **Free Delivery**",
+        "min_order_cents": 3500,
+        "min_order": 35,
+        "max_order_cents": null,
+        "max_order": null,
+        "delivery_fee_cents": 0,
+        "delivery_fee": 0,
+        "is_free": true,
+        "currency": "SAR"
+      }
+    ]
+  }
+}

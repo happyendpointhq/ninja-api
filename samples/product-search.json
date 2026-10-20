@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "data": {
+    "count": 10,
+    "discounted_count": 0,
+    "available_count": 10,
+    "response_size": 10,
+    "truncated": true,
+    "products": [
+      {
+        "id": "5-19289502",
+        "product_id": "19289502",
+        "store_id": "5",
+        "name": "Nadec Fresh Milk Fresh Milk 2.85 L",
+        "name_ar": "نادك حليب طازج كامل الدسم 2.85 لتر",
+        "brand_code": "NADEC",
+        "country": "sa",
+        "currency": "SAR",
+        "price_cents": 1650,
+        "price": 16.5,
+        "original_price_cents": 1650,
+        "original_price": 16.5,
+        "is_discounted": false,
+        "discount_cents": null,
+        "discount_percent": null,
+        "is_available": true,
+        "requires_prescription": false,
+        "unit_of_measure": "PCS",
+        "category_ids": [
+          "5",
+          "1681"
+        ],
+        "sub_category_ids": [
+          "58",
+          "1685"
+        ],
+        "images": [
+          "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6281057012244_1.png"
+        ]
+      },
+      {
+        "id": "5-7518",
+        "product_id": "7518",
+        "store_id": "5",
+        "name": "Almarai Fresh Milk Full Fat 2 L",
+        "name_ar": "المراعي حليب طازج كامل الدسم 2 لتر",
+        "brand_code": "ALMARAI",
+        "country": "sa",
+        "currency": "SAR",
+        "price_cents": 1250,
+        "price": 12.5,
+        "original_price_cents": 1250,
+        "original_price": 12.5,
+        "is_discounted": false,
+        "discount_cents": null,
+        "discount_percent": null,
+        "is_available": true,
+        "requires_prescription": false,
+        "unit_of_measure": "PCS",
+        "category_ids": [
+          "5",
+          "944"
+        ],
+        "sub_category_ids": [
+          "58",
+          "951"
+        ],
+        "images": [
+          "https://img.ananinja.com/media/bra-public-files/services-admin/files/1e26964e-3e04-4726-8cbd-0474bc4b07fd"
+        ]
+      }
+    ]
+  }
+}

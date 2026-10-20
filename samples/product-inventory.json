@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "data": {
+    "count": 5,
+    "in_stock_count": 5,
+    "items": [
+      {
+        "inventory_id": "3074",
+        "product_id": "1223",
+        "quantity": 10,
+        "in_stock": true
+      },
+      {
+        "inventory_id": "3153",
+        "product_id": "1306",
+        "quantity": 49,
+        "in_stock": true
+      },
+      {
+        "inventory_id": "3502",
+        "product_id": "3705",
+        "quantity": 5,
+        "in_stock": true
+      }
+    ]
+  }
+}
